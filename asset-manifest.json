@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tititi_chks/static/css/main.7a60972a.css",
-    "main.js": "/tititi_chks/static/js/main.e6b8b020.js",
+    "main.js": "/tititi_chks/static/js/main.74e3f1f0.js",
     "static/js/787.28cb0dcd.chunk.js": "/tititi_chks/static/js/787.28cb0dcd.chunk.js",
     "static/media/ZAP.png": "/tititi_chks/static/media/ZAP.35a1ed821379e14234cd.png",
     "static/media/BOL.png": "/tititi_chks/static/media/BOL.da468c3bf58358b1b663.png",
@@ -48,11 +48,11 @@
     "static/media/crunchyroll.png": "/tititi_chks/static/media/crunchyroll.65e951c7a8f48fda869f.png",
     "index.html": "/tititi_chks/index.html",
     "main.7a60972a.css.map": "/tititi_chks/static/css/main.7a60972a.css.map",
-    "main.e6b8b020.js.map": "/tititi_chks/static/js/main.e6b8b020.js.map",
+    "main.74e3f1f0.js.map": "/tititi_chks/static/js/main.74e3f1f0.js.map",
     "787.28cb0dcd.chunk.js.map": "/tititi_chks/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a60972a.css",
-    "static/js/main.e6b8b020.js"
+    "static/js/main.74e3f1f0.js"
   ]
 }
